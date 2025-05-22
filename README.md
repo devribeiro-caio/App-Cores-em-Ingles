@@ -15,7 +15,8 @@ Um aplicativo simples e interativo para ajudar iniciantes a aprender os nomes da
 
 ## 🖼️ Prévia
 
-> *(Adicione aqui uma imagem ou GIF do app rodando, se quiser)*
+> ![Animação](https://github.com/user-attachments/assets/8dad4bfd-78b5-42ad-a91a-1cc46ba8e938)
+*
 
 ---
 
